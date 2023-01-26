@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Color My Views</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="box_one">Box One</string>
+</resources>
