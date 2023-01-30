@@ -3,4 +3,7 @@
     <string name="hello_world">Hello World!</string>
     <string name="box_one">Box One</string>
     <string name="box_2">Box 2</string>
+    <string name="box_three">Box three</string>
+    <string name="Box_four">Box Four</string>
+    <string name="box_five">Box five</string>
 </resources>
